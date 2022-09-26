@@ -1,0 +1,19 @@
+.counter{
+    width: 800;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+  }
+
+.val{
+    color:blue;
+    font-size: 50px;
+    margin: 40px;
+}
+
+.but{
+    height: 100px;
+    width: 300px;
+    margin: 50px;
+}
